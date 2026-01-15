@@ -1,0 +1,10 @@
+[project]
+name = "project"
+version = "0.1.0"
+dependencies = [
+    "matplotlib",
+    "numpy",
+    "opensimplex",
+    "ipywidgets",
+    "ipykernel"
+]

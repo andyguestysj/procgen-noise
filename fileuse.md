@@ -39,7 +39,7 @@ Easy to install
 No extra concepts
 
 **How it’s used**
-`pip install -r requirements.txt`
+`python -m  pip install -r .\requirements.txt`
 
 # gitignore
 
